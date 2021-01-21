@@ -6,9 +6,13 @@ header,
 }
 
 #intro {
-    background: url("https://mdbootstrap.com/img/Photos/Horizontal/Nature/full%20page/img%20%283%29.jpg")no-repeat center center fixed;
+    background: url("https://i0.statig.com.br/bancodeimagens/0w/nc/j6/0wncj6d92ro2m50bl2zkzmv1b.jpg")no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+}
+
+#basicExampleNav {
+    font:black;
 }
