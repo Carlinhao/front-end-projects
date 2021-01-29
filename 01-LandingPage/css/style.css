@@ -16,3 +16,9 @@ header,
 #basicExampleNav {
     font:black;
 }
+#introducao {
+    color: white;
+}
+header > div > div > div > div > div > h2 {
+    color: white;
+}
