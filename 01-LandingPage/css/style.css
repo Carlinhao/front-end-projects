@@ -22,3 +22,9 @@ header,
 header > div > div > div > div > div > h2 {
     color: white;
 }
+body > header > nav > div > div > ul > li {
+    font-size: 20px;
+}
+.navbar-nav > li > a{
+    color: black;
+  }
